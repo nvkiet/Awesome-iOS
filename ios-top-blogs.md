@@ -1,2 +1,3 @@
 - http://nshipster.com
 - https://www.objc.io
+- https://www.mikeash.com/pyblog/
