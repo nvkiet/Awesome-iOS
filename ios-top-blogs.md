@@ -7,6 +7,9 @@
 * http://khanlou.com/
 * http://benedictcohen.co.uk/blog/
 
+# Collections
+* http://www.softwarehow.com/best-blogs-for-ios-developers/
+
 # Programmings
 * http://christiantietze.de/
 
