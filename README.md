@@ -32,4 +32,5 @@
 
 ### Other Awesome Lists
 * [Awesome Swift](https://github.com/Wolg/awesome-swift)
+* [Awesome iOS](https://github.com/vsouza/awesome-ios)
 
