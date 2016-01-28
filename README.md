@@ -1,4 +1,5 @@
 # Awesome iOS
+A curated list of awesome iOS. 
 
 ### Swift Courses
 * [App Development: Teaching Swift by Apple Education](https://itunes.apple.com/us/course/app-development-teaching-swift/id1003406963)
