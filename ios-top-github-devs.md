@@ -1,3 +1,0 @@
-- https://github.com/mattt/
-- https://github.com/nicklockwood
-- https://github.com/steipete
