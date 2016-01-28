@@ -26,7 +26,7 @@
 * [Benedictcohen](http://benedictcohen.co.uk/blog/)
 
 ### Top Developers
-* [Mattt]https://github.com/mattt/
+* [Mattt](https://github.com/mattt/)
 * [Nicklockwood](https://github.com/nicklockwood)
 * [Steipete](https://github.com/steipete)
 
