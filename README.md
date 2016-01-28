@@ -11,3 +11,25 @@
 ### Conference Videos
 * [Pomo.tv](http://www.pomo.tv/events/) - A collection of videos about Mac, iOS and Swift.
 
+### Swift Blogs
+* [Hacking With Swift](https://www.hackingwithswift.com)
+* [Natasha The Rebot](http://natashatherobot.com/)
+* [We Heart Swift](https://www.weheartswift.com)
+
+### Blogs
+* [Nshipster](http://nshipster.com)
+* [ObjC](https://www.objc.io)
+* [Mikeash](https://www.mikeash.com/pyblog/)
+
+### Personal Blogs
+* [Khanlou](http://khanlou.com/)
+* [Benedictcohen](http://benedictcohen.co.uk/blog/)
+
+### Top Developers
+* [Mattt]https://github.com/mattt/
+* [Nicklockwood](https://github.com/nicklockwood)
+* [Steipete](https://github.com/steipete)
+
+### Other Awesome Lists
+* [Awesome Swift](https://github.com/Wolg/awesome-swift)
+
